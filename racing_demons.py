@@ -1,4 +1,4 @@
-import pygame, pylirc, sys, copy, os
+import pygame, pylirc, sys, copy
 
 players = []
 notDone = True
