@@ -22,6 +22,7 @@ Then copy lircrc from this repsitory to /etc/lirc/.
 - pygame: http://www.pygame.org/download.shtml
 
 ##Usage:
-Run scoring/scoring.py
+Run scoring/scoring.py.
+
 It should be easy to work out.
 Remote numbers to enter scores, volume up and down buttons for positive/negative, OK to submit.
