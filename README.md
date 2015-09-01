@@ -15,7 +15,7 @@ To use this program you will need a Raspberry Pi (any model), an infrared remote
 
 and then see http://www.modmypi.com/blog/raspberry-pis-remotes-ir-receivers.
 
-Then copy lircrc from this repsitory to /etc/lirc/.
+Then copy lircrc from this repository to /etc/lirc/.
 
 #####You will also need:
 - pylirc: https://pypi.python.org/pypi/pylirc
