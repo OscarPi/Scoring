@@ -26,5 +26,3 @@ Run scoring/scoring.py.
 
 It should be easy to work out.
 Remote numbers to enter scores, volume up and down buttons for positive/negative, OK to submit.
-
-Hi
