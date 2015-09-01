@@ -9,8 +9,18 @@ To enter scores on this program you use an infrared remote control.
 To use this program you will need a Raspberry Pi (any model), an infrared remote reciever (see http://www.modmypi.com/blog/raspberry-pis-remotes-ir-receivers) and an IR remote with numbers (A TV remote would work).
 
 ## Software:
-You need LIRC set up:
+#####You need LIRC set up:
 
 ```sudo apt-get install lirc```
 
 and then see http://www.modmypi.com/blog/raspberry-pis-remotes-ir-receivers.
+
+Then copy lircrc from this repsitory to /etc/lirc/.
+
+#####You will also need:
+- pylirc: https://pypi.python.org/pypi/pylirc
+- pygame: http://www.pygame.org/download.shtml
+
+#####Usage:
+It should be easy to work out.
+Remote numbers to enter scores, volume up and down buttons for positive/negative, OK to submit.
