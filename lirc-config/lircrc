@@ -1,0 +1,2675 @@
+begin
+button = KEY_0
+prog = any
+config = 0
+end
+
+begin
+button = KEY_102ND
+prog = any
+config = 102nd
+end
+
+begin
+button = KEY_1
+prog = any
+config = 1
+end
+
+begin
+button = KEY_2
+prog = any
+config = 2
+end
+
+begin
+button = KEY_3
+prog = any
+config = 3
+end
+
+begin
+button = KEY_4
+prog = any
+config = 4
+end
+
+begin
+button = KEY_5
+prog = any
+config = 5
+end
+
+begin
+button = KEY_6
+prog = any
+config = 6
+end
+
+begin
+button = KEY_7
+prog = any
+config = 7
+end
+
+begin
+button = KEY_8
+prog = any
+config = 8
+end
+
+begin
+button = KEY_9
+prog = any
+config = 9
+end
+
+begin
+button = KEY_A
+prog = any
+config = a
+end
+
+begin
+button = KEY_AB
+prog = any
+config = ab
+end
+
+begin
+button = KEY_ADDRESSBOOK
+prog = any
+config = addressbook
+end
+
+begin
+button = KEY_AGAIN
+prog = any
+config = again
+end
+
+begin
+button = KEY_ALTERASE
+prog = any
+config = alterase
+end
+
+begin
+button = KEY_ANGLE
+prog = any
+config = angle
+end
+
+begin
+button = KEY_APOSTROPHE
+prog = any
+config = apostrophe
+end
+
+begin
+button = KEY_ARCHIVE
+prog = any
+config = archive
+end
+
+begin
+button = KEY_AUDIO
+prog = any
+config = audio
+end
+
+begin
+button = KEY_AUX
+prog = any
+config = aux
+end
+
+begin
+button = KEY_B
+prog = any
+config = b
+end
+
+begin
+button = KEY_BACK
+prog = any
+config = back
+end
+
+begin
+button = KEY_BACKSLASH
+prog = any
+config = backslash
+end
+
+begin
+button = KEY_BACKSPACE
+prog = any
+config = backspace
+end
+
+begin
+button = KEY_BASSBOOST
+prog = any
+config = bassboost
+end
+
+begin
+button = KEY_BATTERY
+prog = any
+config = battery
+end
+
+begin
+button = KEY_BLUE
+prog = any
+config = blue
+end
+
+begin
+button = KEY_BLUETOOTH
+prog = any
+config = bluetooth
+end
+
+begin
+button = KEY_BOOKMARKS
+prog = any
+config = bookmarks
+end
+
+begin
+button = KEY_BREAK
+prog = any
+config = break
+end
+
+begin
+button = KEY_BRIGHTNESS_CYCLE
+prog = any
+config = brightness
+end
+
+begin
+button = KEY_BRIGHTNESSDOWN
+prog = any
+config = brightnessdown
+end
+
+begin
+button = KEY_BRIGHTNESSUP
+prog = any
+config = brightnessup
+end
+
+begin
+button = KEY_BRIGHTNESS_ZERO
+prog = any
+config = brightness
+end
+
+begin
+button = KEY_BRL_DOT10
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT1
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT2
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT3
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT4
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT5
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT6
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT7
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT8
+prog = any
+config = brl
+end
+
+begin
+button = KEY_BRL_DOT9
+prog = any
+config = brl
+end
+
+begin
+button = KEY_C
+prog = any
+config = c
+end
+
+begin
+button = KEY_CALC
+prog = any
+config = calc
+end
+
+begin
+button = KEY_CALENDAR
+prog = any
+config = calendar
+end
+
+begin
+button = KEY_CAMERA
+prog = any
+config = camera
+end
+
+begin
+button = KEY_CANCEL
+prog = any
+config = cancel
+end
+
+begin
+button = KEY_CAPSLOCK
+prog = any
+config = capslock
+end
+
+begin
+button = KEY_CD
+prog = any
+config = cd
+end
+
+begin
+button = KEY_CHANNEL
+prog = any
+config = channel
+end
+
+begin
+button = KEY_CHANNELDOWN
+prog = any
+config = channeldown
+end
+
+begin
+button = KEY_CHANNELUP
+prog = any
+config = channelup
+end
+
+begin
+button = KEY_CHAT
+prog = any
+config = chat
+end
+
+begin
+button = KEY_CLEAR
+prog = any
+config = clear
+end
+
+begin
+button = KEY_CLOSE
+prog = any
+config = close
+end
+
+begin
+button = KEY_CLOSECD
+prog = any
+config = closecd
+end
+
+begin
+button = KEY_COFFEE
+prog = any
+config = coffee
+end
+
+begin
+button = KEY_COMMA
+prog = any
+config = comma
+end
+
+begin
+button = KEY_COMPOSE
+prog = any
+config = compose
+end
+
+begin
+button = KEY_COMPUTER
+prog = any
+config = computer
+end
+
+begin
+button = KEY_CONFIG
+prog = any
+config = config
+end
+
+begin
+button = KEY_CONNECT
+prog = any
+config = connect
+end
+
+begin
+button = KEY_CONTEXT_MENU
+prog = any
+config = context
+end
+
+begin
+button = KEY_COPY
+prog = any
+config = copy
+end
+
+begin
+button = KEY_CUT
+prog = any
+config = cut
+end
+
+begin
+button = KEY_CYCLEWINDOWS
+prog = any
+config = cyclewindows
+end
+
+begin
+button = KEY_D
+prog = any
+config = d
+end
+
+begin
+button = KEY_DASHBOARD
+prog = any
+config = dashboard
+end
+
+begin
+button = KEY_DATABASE
+prog = any
+config = database
+end
+
+begin
+button = KEY_DEL_EOL
+prog = any
+config = del
+end
+
+begin
+button = KEY_DEL_EOS
+prog = any
+config = del
+end
+
+begin
+button = KEY_DELETE
+prog = any
+config = delete
+end
+
+begin
+button = KEY_DELETEFILE
+prog = any
+config = deletefile
+end
+
+begin
+button = KEY_DEL_LINE
+prog = any
+config = del
+end
+
+begin
+button = KEY_DIGITS
+prog = any
+config = digits
+end
+
+begin
+button = KEY_DIRECTION
+prog = any
+config = direction
+end
+
+begin
+button = KEY_DIRECTORY
+prog = any
+config = directory
+end
+
+begin
+button = KEY_DISPLAY_OFF
+prog = any
+config = display
+end
+
+begin
+button = KEY_DISPLAYTOGGLE
+prog = any
+config = displaytoggle
+end
+
+begin
+button = KEY_DOCUMENTS
+prog = any
+config = documents
+end
+
+begin
+button = KEY_DOLLAR
+prog = any
+config = dollar
+end
+
+begin
+button = KEY_DOT
+prog = any
+config = dot
+end
+
+begin
+button = KEY_DOWN
+prog = any
+config = down
+end
+
+begin
+button = KEY_DVD
+prog = any
+config = dvd
+end
+
+begin
+button = KEY_E
+prog = any
+config = e
+end
+
+begin
+button = KEY_EDIT
+prog = any
+config = edit
+end
+
+begin
+button = KEY_EDITOR
+prog = any
+config = editor
+end
+
+begin
+button = KEY_EJECTCD
+prog = any
+config = ejectcd
+end
+
+begin
+button = KEY_EJECTCLOSECD
+prog = any
+config = ejectclosecd
+end
+
+begin
+button = KEY_EMAIL
+prog = any
+config = email
+end
+
+begin
+button = KEY_END
+prog = any
+config = end
+end
+
+begin
+button = KEY_ENTER
+prog = any
+config = enter
+end
+
+begin
+button = KEY_EPG
+prog = any
+config = epg
+end
+
+begin
+button = KEY_EQUAL
+prog = any
+config = equal
+end
+
+begin
+button = KEY_ESC
+prog = any
+config = esc
+end
+
+begin
+button = KEY_EURO
+prog = any
+config = euro
+end
+
+begin
+button = KEY_EXIT
+prog = any
+config = exit
+end
+
+begin
+button = KEY_F10
+prog = any
+config = f10
+end
+
+begin
+button = KEY_F11
+prog = any
+config = f11
+end
+
+begin
+button = KEY_F12
+prog = any
+config = f12
+end
+
+begin
+button = KEY_F13
+prog = any
+config = f13
+end
+
+begin
+button = KEY_F14
+prog = any
+config = f14
+end
+
+begin
+button = KEY_F15
+prog = any
+config = f15
+end
+
+begin
+button = KEY_F1
+prog = any
+config = f1
+end
+
+begin
+button = KEY_F16
+prog = any
+config = f16
+end
+
+begin
+button = KEY_F17
+prog = any
+config = f17
+end
+
+begin
+button = KEY_F18
+prog = any
+config = f18
+end
+
+begin
+button = KEY_F19
+prog = any
+config = f19
+end
+
+begin
+button = KEY_F20
+prog = any
+config = f20
+end
+
+begin
+button = KEY_F21
+prog = any
+config = f21
+end
+
+begin
+button = KEY_F22
+prog = any
+config = f22
+end
+
+begin
+button = KEY_F23
+prog = any
+config = f23
+end
+
+begin
+button = KEY_F24
+prog = any
+config = f24
+end
+
+begin
+button = KEY_F2
+prog = any
+config = f2
+end
+
+begin
+button = KEY_F
+prog = any
+config = f
+end
+
+begin
+button = KEY_F3
+prog = any
+config = f3
+end
+
+begin
+button = KEY_F4
+prog = any
+config = f4
+end
+
+begin
+button = KEY_F5
+prog = any
+config = f5
+end
+
+begin
+button = KEY_F6
+prog = any
+config = f6
+end
+
+begin
+button = KEY_F7
+prog = any
+config = f7
+end
+
+begin
+button = KEY_F8
+prog = any
+config = f8
+end
+
+begin
+button = KEY_F9
+prog = any
+config = f9
+end
+
+begin
+button = KEY_FASTFORWARD
+prog = any
+config = fastforward
+end
+
+begin
+button = KEY_FAVORITES
+prog = any
+config = favorites
+end
+
+begin
+button = KEY_FILE
+prog = any
+config = file
+end
+
+begin
+button = KEY_FINANCE
+prog = any
+config = finance
+end
+
+begin
+button = KEY_FIND
+prog = any
+config = find
+end
+
+begin
+button = KEY_FIRST
+prog = any
+config = first
+end
+
+begin
+button = KEY_FN
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_1
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_2
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_B
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_D
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_E
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_ESC
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F10
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F1
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F11
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F12
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F2
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F3
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F4
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F5
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F6
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F7
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F8
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_F9
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FN_S
+prog = any
+config = fn
+end
+
+begin
+button = KEY_FORWARD
+prog = any
+config = forward
+end
+
+begin
+button = KEY_FORWARDMAIL
+prog = any
+config = forwardmail
+end
+
+begin
+button = KEY_FRAMEBACK
+prog = any
+config = frameback
+end
+
+begin
+button = KEY_FRAMEFORWARD
+prog = any
+config = frameforward
+end
+
+begin
+button = KEY_FRONT
+prog = any
+config = front
+end
+
+begin
+button = KEY_G
+prog = any
+config = g
+end
+
+begin
+button = KEY_GAMES
+prog = any
+config = games
+end
+
+begin
+button = KEY_GOTO
+prog = any
+config = goto
+end
+
+begin
+button = KEY_GRAPHICSEDITOR
+prog = any
+config = graphicseditor
+end
+
+begin
+button = KEY_GRAVE
+prog = any
+config = grave
+end
+
+begin
+button = KEY_GREEN
+prog = any
+config = green
+end
+
+begin
+button = KEY_H
+prog = any
+config = h
+end
+
+begin
+button = KEY_HANGEUL
+prog = any
+config = hangeul
+end
+
+begin
+button = KEY_HANJA
+prog = any
+config = hanja
+end
+
+begin
+button = KEY_HELP
+prog = any
+config = help
+end
+
+begin
+button = KEY_HENKAN
+prog = any
+config = henkan
+end
+
+begin
+button = KEY_HIRAGANA
+prog = any
+config = hiragana
+end
+
+begin
+button = KEY_HOME
+prog = any
+config = home
+end
+
+begin
+button = KEY_HOMEPAGE
+prog = any
+config = homepage
+end
+
+begin
+button = KEY_HP
+prog = any
+config = hp
+end
+
+begin
+button = KEY_I
+prog = any
+config = i
+end
+
+begin
+button = KEY_INFO
+prog = any
+config = info
+end
+
+begin
+button = KEY_INSERT
+prog = any
+config = insert
+end
+
+begin
+button = KEY_INS_LINE
+prog = any
+config = ins
+end
+
+begin
+button = KEY_ISO
+prog = any
+config = iso
+end
+
+begin
+button = KEY_J
+prog = any
+config = j
+end
+
+begin
+button = KEY_K
+prog = any
+config = k
+end
+
+begin
+button = KEY_KATAKANA
+prog = any
+config = katakana
+end
+
+begin
+button = KEY_KATAKANAHIRAGANA
+prog = any
+config = katakanahiragana
+end
+
+begin
+button = KEY_KBDILLUMDOWN
+prog = any
+config = kbdillumdown
+end
+
+begin
+button = KEY_KBDILLUMTOGGLE
+prog = any
+config = kbdillumtoggle
+end
+
+begin
+button = KEY_KBDILLUMUP
+prog = any
+config = kbdillumup
+end
+
+begin
+button = KEY_KEYBOARD
+prog = any
+config = keyboard
+end
+
+begin
+button = KEY_KP0
+prog = any
+config = kp0
+end
+
+begin
+button = KEY_KP1
+prog = any
+config = kp1
+end
+
+begin
+button = KEY_KP2
+prog = any
+config = kp2
+end
+
+begin
+button = KEY_KP3
+prog = any
+config = kp3
+end
+
+begin
+button = KEY_KP4
+prog = any
+config = kp4
+end
+
+begin
+button = KEY_KP5
+prog = any
+config = kp5
+end
+
+begin
+button = KEY_KP6
+prog = any
+config = kp6
+end
+
+begin
+button = KEY_KP7
+prog = any
+config = kp7
+end
+
+begin
+button = KEY_KP8
+prog = any
+config = kp8
+end
+
+begin
+button = KEY_KP9
+prog = any
+config = kp9
+end
+
+begin
+button = KEY_KPASTERISK
+prog = any
+config = kpasterisk
+end
+
+begin
+button = KEY_KPCOMMA
+prog = any
+config = kpcomma
+end
+
+begin
+button = KEY_KPDOT
+prog = any
+config = kpdot
+end
+
+begin
+button = KEY_KPENTER
+prog = any
+config = kpenter
+end
+
+begin
+button = KEY_KPEQUAL
+prog = any
+config = kpequal
+end
+
+begin
+button = KEY_KPJPCOMMA
+prog = any
+config = kpjpcomma
+end
+
+begin
+button = KEY_KPLEFTPAREN
+prog = any
+config = kpleftparen
+end
+
+begin
+button = KEY_KPMINUS
+prog = any
+config = kpminus
+end
+
+begin
+button = KEY_KPPLUS
+prog = any
+config = kpplus
+end
+
+begin
+button = KEY_KPPLUSMINUS
+prog = any
+config = kpplusminus
+end
+
+begin
+button = KEY_KPRIGHTPAREN
+prog = any
+config = kprightparen
+end
+
+begin
+button = KEY_KPSLASH
+prog = any
+config = kpslash
+end
+
+begin
+button = KEY_L
+prog = any
+config = l
+end
+
+begin
+button = KEY_LANGUAGE
+prog = any
+config = language
+end
+
+begin
+button = KEY_LAST
+prog = any
+config = last
+end
+
+begin
+button = KEY_LEFT
+prog = any
+config = left
+end
+
+begin
+button = KEY_LEFTALT
+prog = any
+config = leftalt
+end
+
+begin
+button = KEY_LEFTBRACE
+prog = any
+config = leftbrace
+end
+
+begin
+button = KEY_LEFTCTRL
+prog = any
+config = leftctrl
+end
+
+begin
+button = KEY_LEFTMETA
+prog = any
+config = leftmeta
+end
+
+begin
+button = KEY_LEFTSHIFT
+prog = any
+config = leftshift
+end
+
+begin
+button = KEY_LINEFEED
+prog = any
+config = linefeed
+end
+
+begin
+button = KEY_LIST
+prog = any
+config = list
+end
+
+begin
+button = KEY_LOGOFF
+prog = any
+config = logoff
+end
+
+begin
+button = KEY_M
+prog = any
+config = m
+end
+
+begin
+button = KEY_MACRO
+prog = any
+config = macro
+end
+
+begin
+button = KEY_MAIL
+prog = any
+config = mail
+end
+
+begin
+button = KEY_MAX
+prog = any
+config = max
+end
+
+begin
+button = KEY_MEDIA
+prog = any
+config = media
+end
+
+begin
+button = KEY_MEDIA_REPEAT
+prog = any
+config = media
+end
+
+begin
+button = KEY_MEMO
+prog = any
+config = memo
+end
+
+begin
+button = KEY_MENU
+prog = any
+config = menu
+end
+
+begin
+button = KEY_MESSENGER
+prog = any
+config = messenger
+end
+
+begin
+button = KEY_MHP
+prog = any
+config = mhp
+end
+
+begin
+button = KEY_MINUS
+prog = any
+config = minus
+end
+
+begin
+button = KEY_MODE
+prog = any
+config = mode
+end
+
+begin
+button = KEY_MOVE
+prog = any
+config = move
+end
+
+begin
+button = KEY_MP3
+prog = any
+config = mp3
+end
+
+begin
+button = KEY_MSDOS
+prog = any
+config = msdos
+end
+
+begin
+button = KEY_MUHENKAN
+prog = any
+config = muhenkan
+end
+
+begin
+button = KEY_MUTE
+prog = any
+config = mute
+end
+
+begin
+button = KEY_N
+prog = any
+config = n
+end
+
+begin
+button = KEY_NEW
+prog = any
+config = new
+end
+
+begin
+button = KEY_NEWS
+prog = any
+config = news
+end
+
+begin
+button = KEY_NEXT
+prog = any
+config = next
+end
+
+begin
+button = KEY_NEXTSONG
+prog = any
+config = nextsong
+end
+
+begin
+button = KEY_NUMERIC_0
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_1
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_2
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_3
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_4
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_5
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_6
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_7
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_8
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_9
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_POUND
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMERIC_STAR
+prog = any
+config = numeric
+end
+
+begin
+button = KEY_NUMLOCK
+prog = any
+config = numlock
+end
+
+begin
+button = KEY_O
+prog = any
+config = o
+end
+
+begin
+button = KEY_OK
+prog = any
+config = ok
+end
+
+begin
+button = KEY_OPEN
+prog = any
+config = open
+end
+
+begin
+button = KEY_OPTION
+prog = any
+config = option
+end
+
+begin
+button = KEY_P
+prog = any
+config = p
+end
+
+begin
+button = KEY_PAGEDOWN
+prog = any
+config = pagedown
+end
+
+begin
+button = KEY_PAGEUP
+prog = any
+config = pageup
+end
+
+begin
+button = KEY_PASTE
+prog = any
+config = paste
+end
+
+begin
+button = KEY_PAUSE
+prog = any
+config = pause
+end
+
+begin
+button = KEY_PAUSECD
+prog = any
+config = pausecd
+end
+
+begin
+button = KEY_PC
+prog = any
+config = pc
+end
+
+begin
+button = KEY_PHONE
+prog = any
+config = phone
+end
+
+begin
+button = KEY_PLAY
+prog = any
+config = play
+end
+
+begin
+button = KEY_PLAYCD
+prog = any
+config = playcd
+end
+
+begin
+button = KEY_PLAYER
+prog = any
+config = player
+end
+
+begin
+button = KEY_PLAYPAUSE
+prog = any
+config = playpause
+end
+
+begin
+button = KEY_POWER
+prog = any
+config = power
+end
+
+begin
+button = KEY_POWER2
+prog = any
+config = power2
+end
+
+begin
+button = KEY_PRESENTATION
+prog = any
+config = presentation
+end
+
+begin
+button = KEY_PREVIOUS
+prog = any
+config = previous
+end
+
+begin
+button = KEY_PREVIOUSSONG
+prog = any
+config = previoussong
+end
+
+begin
+button = KEY_PRINT
+prog = any
+config = print
+end
+
+begin
+button = KEY_PROG1
+prog = any
+config = prog1
+end
+
+begin
+button = KEY_PROG2
+prog = any
+config = prog2
+end
+
+begin
+button = KEY_PROG3
+prog = any
+config = prog3
+end
+
+begin
+button = KEY_PROG4
+prog = any
+config = prog4
+end
+
+begin
+button = KEY_PROGRAM
+prog = any
+config = program
+end
+
+begin
+button = KEY_PROPS
+prog = any
+config = props
+end
+
+begin
+button = KEY_PVR
+prog = any
+config = pvr
+end
+
+begin
+button = KEY_Q
+prog = any
+config = q
+end
+
+begin
+button = KEY_QUESTION
+prog = any
+config = question
+end
+
+begin
+button = KEY_R
+prog = any
+config = r
+end
+
+begin
+button = KEY_RADIO
+prog = any
+config = radio
+end
+
+begin
+button = KEY_RECORD
+prog = any
+config = record
+end
+
+begin
+button = KEY_RED
+prog = any
+config = red
+end
+
+begin
+button = KEY_REDO
+prog = any
+config = redo
+end
+
+begin
+button = KEY_REFRESH
+prog = any
+config = refresh
+end
+
+begin
+button = KEY_REPLY
+prog = any
+config = reply
+end
+
+begin
+button = KEY_RESERVED
+prog = any
+config = reserved
+end
+
+begin
+button = KEY_RESTART
+prog = any
+config = restart
+end
+
+begin
+button = KEY_REWIND
+prog = any
+config = rewind
+end
+
+begin
+button = KEY_RFKILL
+prog = any
+config = rfkill
+end
+
+begin
+button = KEY_RIGHT
+prog = any
+config = right
+end
+
+begin
+button = KEY_RIGHTALT
+prog = any
+config = rightalt
+end
+
+begin
+button = KEY_RIGHTBRACE
+prog = any
+config = rightbrace
+end
+
+begin
+button = KEY_RIGHTCTRL
+prog = any
+config = rightctrl
+end
+
+begin
+button = KEY_RIGHTMETA
+prog = any
+config = rightmeta
+end
+
+begin
+button = KEY_RIGHTSHIFT
+prog = any
+config = rightshift
+end
+
+begin
+button = KEY_RO
+prog = any
+config = ro
+end
+
+begin
+button = KEY_S
+prog = any
+config = s
+end
+
+begin
+button = KEY_SAT
+prog = any
+config = sat
+end
+
+begin
+button = KEY_SAT2
+prog = any
+config = sat2
+end
+
+begin
+button = KEY_SAVE
+prog = any
+config = save
+end
+
+begin
+button = KEY_SCALE
+prog = any
+config = scale
+end
+
+begin
+button = KEY_SCREEN
+prog = any
+config = screen
+end
+
+begin
+button = KEY_SCROLLDOWN
+prog = any
+config = scrolldown
+end
+
+begin
+button = KEY_SCROLLLOCK
+prog = any
+config = scrolllock
+end
+
+begin
+button = KEY_SCROLLUP
+prog = any
+config = scrollup
+end
+
+begin
+button = KEY_SEARCH
+prog = any
+config = search
+end
+
+begin
+button = KEY_SELECT
+prog = any
+config = select
+end
+
+begin
+button = KEY_SEMICOLON
+prog = any
+config = semicolon
+end
+
+begin
+button = KEY_SEND
+prog = any
+config = send
+end
+
+begin
+button = KEY_SENDFILE
+prog = any
+config = sendfile
+end
+
+begin
+button = KEY_SETUP
+prog = any
+config = setup
+end
+
+begin
+button = KEY_SHOP
+prog = any
+config = shop
+end
+
+begin
+button = KEY_SHUFFLE
+prog = any
+config = shuffle
+end
+
+begin
+button = KEY_SLASH
+prog = any
+config = slash
+end
+
+begin
+button = KEY_SLEEP
+prog = any
+config = sleep
+end
+
+begin
+button = KEY_SLOW
+prog = any
+config = slow
+end
+
+begin
+button = KEY_SOUND
+prog = any
+config = sound
+end
+
+begin
+button = KEY_SPACE
+prog = any
+config = space
+end
+
+begin
+button = KEY_SPELLCHECK
+prog = any
+config = spellcheck
+end
+
+begin
+button = KEY_SPORT
+prog = any
+config = sport
+end
+
+begin
+button = KEY_SPREADSHEET
+prog = any
+config = spreadsheet
+end
+
+begin
+button = KEY_STOP
+prog = any
+config = stop
+end
+
+begin
+button = KEY_STOPCD
+prog = any
+config = stopcd
+end
+
+begin
+button = KEY_SUBTITLE
+prog = any
+config = subtitle
+end
+
+begin
+button = KEY_SUSPEND
+prog = any
+config = suspend
+end
+
+begin
+button = KEY_SWITCHVIDEOMODE
+prog = any
+config = switchvideomode
+end
+
+begin
+button = KEY_SYSRQ
+prog = any
+config = sysrq
+end
+
+begin
+button = KEY_T
+prog = any
+config = t
+end
+
+begin
+button = KEY_TAB
+prog = any
+config = tab
+end
+
+begin
+button = KEY_TAPE
+prog = any
+config = tape
+end
+
+begin
+button = KEY_TEEN
+prog = any
+config = teen
+end
+
+begin
+button = KEY_TEXT
+prog = any
+config = text
+end
+
+begin
+button = KEY_TIME
+prog = any
+config = time
+end
+
+begin
+button = KEY_TITLE
+prog = any
+config = title
+end
+
+begin
+button = KEY_TUNER
+prog = any
+config = tuner
+end
+
+begin
+button = KEY_TV
+prog = any
+config = tv
+end
+
+begin
+button = KEY_TV2
+prog = any
+config = tv2
+end
+
+begin
+button = KEY_TWEN
+prog = any
+config = twen
+end
+
+begin
+button = KEY_U
+prog = any
+config = u
+end
+
+begin
+button = KEY_UNDO
+prog = any
+config = undo
+end
+
+begin
+button = KEY_UNKNOWN
+prog = any
+config = unknown
+end
+
+begin
+button = KEY_UP
+prog = any
+config = up
+end
+
+begin
+button = KEY_UWB
+prog = any
+config = uwb
+end
+
+begin
+button = KEY_V
+prog = any
+config = v
+end
+
+begin
+button = KEY_VCR
+prog = any
+config = vcr
+end
+
+begin
+button = KEY_VCR2
+prog = any
+config = vcr2
+end
+
+begin
+button = KEY_VENDOR
+prog = any
+config = vendor
+end
+
+begin
+button = KEY_VIDEO
+prog = any
+config = video
+end
+
+begin
+button = KEY_VIDEO_NEXT
+prog = any
+config = video
+end
+
+begin
+button = KEY_VIDEOPHONE
+prog = any
+config = videophone
+end
+
+begin
+button = KEY_VIDEO_PREV
+prog = any
+config = video
+end
+
+begin
+button = KEY_VOICEMAIL
+prog = any
+config = voicemail
+end
+
+begin
+button = KEY_VOLUMEDOWN
+prog = any
+config = volumedown
+end
+
+begin
+button = KEY_VOLUMEUP
+prog = any
+config = volumeup
+end
+
+begin
+button = KEY_W
+prog = any
+config = w
+end
+
+begin
+button = KEY_WAKEUP
+prog = any
+config = wakeup
+end
+
+begin
+button = KEY_WIMAX
+prog = any
+config = wimax
+end
+
+begin
+button = KEY_WLAN
+prog = any
+config = wlan
+end
+
+begin
+button = KEY_WORDPROCESSOR
+prog = any
+config = wordprocessor
+end
+
+begin
+button = KEY_WWW
+prog = any
+config = www
+end
+
+begin
+button = KEY_X
+prog = any
+config = x
+end
+
+begin
+button = KEY_XFER
+prog = any
+config = xfer
+end
+
+begin
+button = KEY_Y
+prog = any
+config = y
+end
+
+begin
+button = KEY_YELLOW
+prog = any
+config = yellow
+end
+
+begin
+button = KEY_YEN
+prog = any
+config = yen
+end
+
+begin
+button = KEY_Z
+prog = any
+config = z
+end
+
+begin
+button = KEY_ZENKAKUHANKAKU
+prog = any
+config = zenkakuhankaku
+end
+
+begin
+button = KEY_ZOOM
+prog = any
+config = zoom
+end
+
+begin
+button = KEY_ZOOMIN
+prog = any
+config = zoomin
+end
+
+begin
+button = KEY_ZOOMOUT
+prog = any
+config = zoomout
+end
+
+begin
+button = KEY_ZOOMRESET
+prog = any
+config = zoomreset
+end
+
+begin
+button = BTN_0
+prog = any
+config = 0
+end
+
+begin
+button = BTN_1
+prog = any
+config = 1
+end
+
+begin
+button = BTN_2
+prog = any
+config = 2
+end
+
+begin
+button = BTN_3
+prog = any
+config = 3
+end
+
+begin
+button = BTN_4
+prog = any
+config = 4
+end
+
+begin
+button = BTN_5
+prog = any
+config = 5
+end
+
+begin
+button = BTN_6
+prog = any
+config = 6
+end
+
+begin
+button = BTN_7
+prog = any
+config = 7
+end
+
+begin
+button = BTN_8
+prog = any
+config = 8
+end
+
+begin
+button = BTN_9
+prog = any
+config = 9
+end
+
+begin
+button = BTN_A
+prog = any
+config = a
+end
+
+begin
+button = BTN_B
+prog = any
+config = b
+end
+
+begin
+button = BTN_BACK
+prog = any
+config = back
+end
+
+begin
+button = BTN_BASE
+prog = any
+config = base
+end
+
+begin
+button = BTN_BASE2
+prog = any
+config = base2
+end
+
+begin
+button = BTN_BASE3
+prog = any
+config = base3
+end
+
+begin
+button = BTN_BASE4
+prog = any
+config = base4
+end
+
+begin
+button = BTN_BASE5
+prog = any
+config = base5
+end
+
+begin
+button = BTN_BASE6
+prog = any
+config = base6
+end
+
+begin
+button = BTN_C
+prog = any
+config = c
+end
+
+begin
+button = BTN_DEAD
+prog = any
+config = dead
+end
+
+begin
+button = BTN_DIGI
+prog = any
+config = digi
+end
+
+begin
+button = BTN_EXTRA
+prog = any
+config = extra
+end
+
+begin
+button = BTN_FORWARD
+prog = any
+config = forward
+end
+
+begin
+button = BTN_GAMEPAD
+prog = any
+config = gamepad
+end
+
+begin
+button = BTN_GEAR_DOWN
+prog = any
+config = gear
+end
+
+begin
+button = BTN_GEAR_UP
+prog = any
+config = gear
+end
+
+begin
+button = BTN_JOYSTICK
+prog = any
+config = joystick
+end
+
+begin
+button = BTN_LEFT
+prog = any
+config = left
+end
+
+begin
+button = BTN_MIDDLE
+prog = any
+config = middle
+end
+
+begin
+button = BTN_MISC
+prog = any
+config = misc
+end
+
+begin
+button = BTN_MODE
+prog = any
+config = mode
+end
+
+begin
+button = BTN_MOUSE
+prog = any
+config = mouse
+end
+
+begin
+button = BTN_PINKIE
+prog = any
+config = pinkie
+end
+
+begin
+button = BTN_RIGHT
+prog = any
+config = right
+end
+
+begin
+button = BTN_SELECT
+prog = any
+config = select
+end
+
+begin
+button = BTN_SIDE
+prog = any
+config = side
+end
+
+begin
+button = BTN_START
+prog = any
+config = start
+end
+
+begin
+button = BTN_STYLUS
+prog = any
+config = stylus
+end
+
+begin
+button = BTN_STYLUS2
+prog = any
+config = stylus2
+end
+
+begin
+button = BTN_TASK
+prog = any
+config = task
+end
+
+begin
+button = BTN_THUMB
+prog = any
+config = thumb
+end
+
+begin
+button = BTN_THUMB2
+prog = any
+config = thumb2
+end
+
+begin
+button = BTN_THUMBL
+prog = any
+config = thumbl
+end
+
+begin
+button = BTN_THUMBR
+prog = any
+config = thumbr
+end
+
+begin
+button = BTN_TL
+prog = any
+config = tl
+end
+
+begin
+button = BTN_TL2
+prog = any
+config = tl2
+end
+
+begin
+button = BTN_TOOL_AIRBRUSH
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_BRUSH
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_DOUBLETAP
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_FINGER
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_LENS
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_MOUSE
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_PEN
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_PENCIL
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_QUADTAP
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_RUBBER
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOOL_TRIPLETAP
+prog = any
+config = tool
+end
+
+begin
+button = BTN_TOP
+prog = any
+config = top
+end
+
+begin
+button = BTN_TOP2
+prog = any
+config = top2
+end
+
+begin
+button = BTN_TOUCH
+prog = any
+config = touch
+end
+
+begin
+button = BTN_TR
+prog = any
+config = tr
+end
+
+begin
+button = BTN_TR2
+prog = any
+config = tr2
+end
+
+begin
+button = BTN_TRIGGER
+prog = any
+config = trigger
+end
+
+begin
+button = BTN_WHEEL
+prog = any
+config = wheel
+end
+
+begin
+button = BTN_X
+prog = any
+config = x
+end
+
+begin
+button = BTN_Y
+prog = any
+config = y
+end
+
+begin
+button = BTN_Z
+prog = any
+config = z
+end
